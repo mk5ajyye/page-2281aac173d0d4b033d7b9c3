@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "28409a2002c6b298b79fa840",
+  "owner": "mk5ajyye",
+  "repo": "page-2281aac173d0d4b033d7b9c3",
+  "title": "扶摇云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2281aac173d0d4b033d7b9c3",
+      "a": "扶摇云",
+      "b": "",
+      "entity": "扶摇云",
+      "brand": "扶摇云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "65c53fb5dc3270934d33303ffd9fce43cf49788b1682ed113ab8a0fbce0cba29",
+      "content": {
+        "keyword1": "扶摇云",
+        "keyword2": "",
+        "primary_entity": "扶摇云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "扶摇云提供专业机场订阅与VPN网络加速服务，覆盖多端客户端下载，支持流媒体解锁与游戏专线，官方网站助您快速完成配置并稳定连接全球节点。",
+          "AI_DESCRIPTION": "扶摇云提供专业机场订阅与VPN网络加速服务，覆盖多端客户端下载，支持流媒体解锁与游戏专线，官方网站助您快速完成配置并稳定连接全球节点。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;background:#F7F5F0;color:#1A2E24;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65}body{overflow-x:hidden}a{color:#1B4332;text-decoration:underline}header{background:#1B4332;color:#F7F5F0;padding:18px 16px}header .brand{font-size:20px;font-weight:700;margin:0 0 10px}nav{display:flex;flex-wrap:wrap;gap:10px 14px;font-size:14px}nav a{color:#F7F5F0;text-decoration:none}main{max-width:720px;margin:0 auto;padding:20px 16px 40px}h1{font-size:28px;line-height:1.3;margin:8px 0 12px;color:#1B4332}h2{font-size:22px;margin:28px 0 12px;color:#1B4332;border-bottom:2px solid #2D6A4F;padding-bottom:6px}h3{font-size:18px;margin:18px 0 8px;color:#2D6A4F}p,li{margin:0 0 10px}ul{padding-left:20px}.lead{background:#fff;border:1px solid #D5E5DA;border-radius:8px;padding:14px 16px}.plan{background:#fff;border:1px solid #D5E5DA;border-radius:8px;padding:16px;margin:0 0 14px}.plan.featured{border:2px solid #2D6A4F;background:#F1F7F3}.price{font-size:22px;font-weight:700;color:#1B4332}.annual{font-size:14px;color:#3D5C4E;margin:4px 0 10px}.step{background:#fff;border-left:4px solid #2D6A4F;padding:12px 14px;margin:0 0 12px}.note{font-size:14px;color:#3D5C4E}details{background:#fff;border:1px solid #D5E5DA;border-radius:8px;padding:10px 14px;margin:0 0 10px}summary{font-weight:700;color:#1B4332}footer{background:#E8EEE9;padding:20px 16px;font-size:14px}footer .box{max-width:720px;margin:0 auto}.ad{background:#fff;border:1px dashed #2D6A4F;padding:12px;margin:12px 0}.links a{margin-right:10px}</style><header><p class=\"brand\">扶摇云官方网站</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>扶摇云</h1><p class=\"lead\">扶摇云是面向跨境网络加速的官方机场与VPN服务，提供可更新的机场订阅、多协议节点与全平台客户端指引。用户可按套餐获取流量与设备额度，完成导入后即可用于流媒体解锁、游戏加速与远程办公。本页集中说明品牌定位、套餐差异、配置流程与官方下载路径，便于一次读完并上手使用。</p><section id=\"intro\"><h2>品牌简介</h2><p>扶摇云坚持自建与精选线路并重，节点覆盖香港、日本、新加坡、美国与欧洲等常用地区。协议侧支持 Trojan、VLESS 与 Shadowsocks，可在 Clash、sing-box 及常见图形客户端中使用。旗舰线路包含 IPLC 专线，适合对延迟敏感的游戏与会议场景；普通线路节点池则满足浏览、视频与日常科学上网。</p><p>作为扶摇云官网介绍页，我们只描述可核验的服务能力：流量按月结算、设备数按套餐限制、工单按等级响应。不虚构评分或用户评论。订阅链接在支付完成后于用户中心生成，重置后旧地址立即失效，便于账号安全管理。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前公开档位，可按月或按年开通。年付价格已在各档标明，便于对照流量与设备需求选择。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要稳定观看海外视频时，优先使用旗舰版全节点原生解锁。基础版覆盖常见平台，遇到版权锁区可切换地区节点。建议客户端开启规则分流，国内网站直连，避免多余绕行。</p><h3>游戏与实时通信</h3><p>对局与语音对延迟敏感，可选用标注 IPLC 的游戏优化节点。旗舰版在高峰时段仍保留专线带宽，适合原神、英雄联盟及同类在线游戏。连接后先做延迟测试再进入对局。</p><h3>多设备办公与差旅</h3><p>出差或家庭共用时，按设备数选择套餐。基础版适合个人三端，团队版覆盖工作室多台电脑与手机。企业定制路由可将办公域名固定走指定出口，减少会话中断。</p></section><section id=\"guide\"><h2>配置流程</h2><p>扶摇云强调可执行的纵向步骤。按顺序完成即可从订阅走到成功联网，无需额外脚本或复杂面板。</p><div class=\"step\"><h3>第一步：确认套餐并复制订阅</h3><p>在官网选择基础版、旗舰版或团队版并完成支付。进入用户中心复制通用订阅链接。若只需单一协议，可再取对应的 Clash 或 sing-box 配置地址。链接请勿公开转发。</p></div><div class=\"step\"><h3>第二步：按系统准备客户端</h3><p>Windows 常用 v2rayN 或 Clash Verge；macOS 可用 ClashX Meta、Stash 或 Surge；iOS 使用 Shadowrocket 或 Stash；Android 使用 Clash Meta for Android。请从各软件开发者渠道安装，扶摇云官网提供适配说明而不托管来路不明的安装包。</p></div><div class=\"step\"><h3>第三步：导入机场订阅</h3><p>打开客户端，选择从 URL 更新订阅，粘贴扶摇云订阅地址并保存。等待节点列表刷新，确认出现香港、日本、美国等分组。建议开启定时更新，以免节点变动后仍使用旧配置。</p></div><div class=\"step\"><h3>第四步：选择节点并开启系统代理</h3><p>日常浏览可选普通线路；4K 流媒体与游戏改走 IPLC 或高带宽节点。开启系统代理或 TUN 模式，让全部应用走加速通道。公司网络若拦截 UDP，可改用 TCP 或 Websocket 传输。</p></div><div class=\"step\"><h3>第五步：验证解锁与稳定性</h3><p>访问目标流媒体首页，确认可以播放；再打开游戏或会议软件观察延迟。若异常，先更换同地区备用节点，再检查本地防火墙。旗舰版与团队版用户可通过优先工单提交节点编号以便排查。</p></div><p class=\"note\">配置过程中只使用官方订阅域名。任何要求你二次安装未知插件或扫描不明二维码的来源，都与扶摇云官方流程不符。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>扶摇云官方下载路径以用户中心公告为准。本页给出平台对应关系，方便你在完成机场订阅后立刻安装加速器客户端。</p><h3>桌面端</h3><p>Windows 与 macOS 推荐具备订阅更新、规则分流与 TUN 的客户端。导入扶摇云订阅后，将模式设为规则，国内直连、境外代理。管理员权限仅在首次开启虚拟网卡时需要。</p><h3>移动端</h3><p>iOS 通过商店获取 Shadowrocket 或 Stash 后粘贴订阅。Android 安装 Clash Meta 系列，注意省电策略不要杀掉后台，否则切换网络时会短暂掉线。平板计入设备数，请预留额度。</p><h3>安全说明</h3><p>客户端本体请走软件官方站点或系统商店。扶摇云只下发订阅与节点，不捆绑第三方加速器修改版。若下载页域名与本站 canonical 不一致，请停止操作并回到扶摇云官网核对。</p><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">阅读常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>扶摇云是机场还是单一VPN？</summary><p>扶摇云以机场订阅为主，一次订阅可获取多个地区节点并支持客户端自动更新，同时兼容常见 VPN 协议导入。相比单一入口的传统VPN，更适合需要切换线路、分流规则和多设备共享的用户。</p></details><details><summary>如何完成客户端下载并导入订阅？</summary><p>先在本页客户端下载章节确认系统对应软件，从开发者官方渠道安装。然后在扶摇云用户中心复制订阅链接，于客户端选择从 URL 导入。导入成功后更新节点，再按配置流程第四步连接。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度浏览与三台设备内选择基础版。需要原生流媒体、游戏专线与优先工单选择旗舰版。工作室或家庭设备超过五台、需要定制路由与客户经理则选择团队版。流量按月重置，年付仅改变结算单价。</p></details><details><summary>节点变慢或流媒体无法解锁怎么办？</summary><p>先切换同地区其他节点，并确认客户端规则不是全局导致国内网站也被代理。旗舰版提供全节点原生解锁，仍失败时提交工单并附上节点名称与测试时间。高峰期优先使用 IPLC 标注线路。</p></details><details><summary>设备数超限或订阅泄露如何处理？</summary><p>超出同时在线台数会被限制新连接，关闭闲置设备或升级套餐即可。怀疑订阅泄露时，在用户中心一键重置，旧链接立即失效。不要把订阅二维码发到群组或公开网页。</p></details><details><summary>扶摇云是否提供官方售后与工单？</summary><p>提供。基础版走常规工单队列，旗舰版 7x24 优先支持，团队版另有专属客户经理。官方身份以本站 canonical 域名与用户中心公告为准，不会以个人即时通讯索要远程控制权限。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"box\"><div class=\"ad\">合作广告位：跨境办公与内容分发线路咨询，请通过官网合作入口联系，不接受第三方不明跳转。</div><p>友情链接：<span class=\"links\"><a href=\"#\">节点状态看板</a><a href=\"#\">客户端教程索引</a><a href=\"#\">分流规则说明</a><a href=\"#\">协议对照手册</a></span></p><p>网站地图：<a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p><p>扶摇云官方网站 · 机场订阅与VPN加速器服务 · <a href=\"#\">使用条款</a> · <a href=\"#\">隐私说明</a></p></div></footer>",
+          "hash": "95e4d26ef2201bb807be81b72c8b9cf5827e329c3b858a0d0fd69f96614ddce4",
+          "seo": {
+            "title": "扶摇云官网 | 机场VPN加速器订阅与客户端下载",
+            "keywords": "扶摇云,扶摇云机场,扶摇云VPN,扶摇云官网,梯子网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "扶摇云提供专业机场订阅与VPN网络加速服务，覆盖多端客户端下载，支持流媒体解锁与游戏专线，官方网站助您快速完成配置并稳定连接全球节点。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "junyin11.cn",
+    "host": "p-673d457dcc.junyin11.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "junyin11.cn",
+      "url": "https://junyin11.cn/",
+      "label": "大阪国際",
+      "apex": "junyin11.cn",
+      "kind": null,
+      "identity": "unhhgtjt/page-14e87c2873165233a8818bbf"
+    },
+    {
+      "host": "ofefe.cn",
+      "url": "https://ofefe.cn/",
+      "label": "扶摇云",
+      "apex": "ofefe.cn",
+      "kind": null,
+      "identity": "wangbadani1/page-3d48710f44bbbc1637292293"
+    },
+    {
+      "host": "qncphvc.cn",
+      "url": "https://qncphvc.cn/",
+      "label": "扶摇云",
+      "apex": "qncphvc.cn",
+      "kind": null,
+      "identity": "jichangdaquan999/page-74acb23ec642eea1683f7597"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "590ab87376abe567b9b4f22878631a0a3d47084132e5582fef5e7bedc6415e69",
+    "sitemap.xml": "3eae0bd5672cbdf0d941696f774f14358bf7add0d6e42970c050eb97156f632f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7c9d8887c6710e60da4746021c9db252e434e4be1e6d12c249905b458400d4a6",
+    "robots.txt": "4b3bd5e2742c2272a2c0b4ecab6c9bb85f647abc336556fd6155e3fc22c5f723",
+    "07dd1ba0b9d2438892bd7e175b69d1eb.txt": "69a09ca829467af6b0f5ae8031a266934d4b36e11f7335900029f6e98308907a"
+  },
+  "revision": "68c18351e6dd7c9bc610d347c4af0125b849195f1365da9e6350d8ec16fce3c5"
+}
